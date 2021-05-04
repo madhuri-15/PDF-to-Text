@@ -1,3 +1,4 @@
+
 #! python3
 # pdfTotext.py - Convert pdf files into text files.
 
